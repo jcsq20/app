@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  dev:
+    container_name: react
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: serve -s dist
+    ports:
+      - 3000:3000
+    restart: unless-stopped
