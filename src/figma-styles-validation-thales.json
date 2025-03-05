@@ -1,0 +1,428 @@
+{
+  "black": "#000000ff",
+  "white": "#ffffffff",
+  "Color": {
+    "whiteAlpha": {
+      "50": "#ffffff0a",
+      "100": "#ffffff0f",
+      "200": "#ffffff14",
+      "300": "#ffffff29",
+      "400": "#ffffff3d",
+      "500": "#ffffff5c",
+      "600": "#ffffff7a",
+      "700": "#ffffffa3",
+      "800": "#ffffffcc",
+      "900": "#ffffffeb"
+    },
+    "blackAlpha": {
+      "50": "#0000000a",
+      "100": "#0000000f",
+      "200": "#00000014",
+      "300": "#00000029",
+      "400": "#0000003d",
+      "500": "#0000005c",
+      "600": "#0000007a",
+      "700": "#000000a3",
+      "800": "#000000cc",
+      "900": "#000000eb"
+    },
+    "gray": {
+      "25": "#f7f7f9ff",
+      "50": "#eeeff3ff",
+      "100": "#dedee6ff",
+      "200": "#bcbeceff",
+      "300": "#9a9db5ff",
+      "400": "#797d9cff",
+      "500": "#5d607eff",
+      "600": "#4a4d65ff",
+      "700": "#383a4bff",
+      "800": "#252733ff",
+      "850": "#1c1d26ff",
+      "900": "#131319ff"
+    },
+    "red": {
+      "50": "#fff5f5ff",
+      "100": "#fed7d7ff",
+      "200": "#feb2b2ff",
+      "300": "#fc8181ff",
+      "400": "#f56565ff",
+      "500": "#e53e3eff",
+      "600": "#c53030ff",
+      "700": "#9b2c2cff",
+      "800": "#822727ff",
+      "900": "#63171bff"
+    },
+    "orange": {
+      "50": "#fffaf0ff",
+      "100": "#feebcbff",
+      "200": "#fbd38dff",
+      "300": "#f6ad55ff",
+      "400": "#ed8936ff",
+      "500": "#dd6b20ff",
+      "600": "#c05621ff",
+      "700": "#9c4221ff",
+      "800": "#7b341eff",
+      "900": "#652b19ff"
+    },
+    "yellow": {
+      "50": "#fffff0ff",
+      "100": "#fefcbfff",
+      "200": "#faf089ff",
+      "300": "#f6e05eff",
+      "400": "#ecc94bff",
+      "500": "#d69e2eff",
+      "600": "#b7791fff",
+      "700": "#975a16ff",
+      "800": "#744210ff",
+      "900": "#5f370eff"
+    },
+    "green": {
+      "50": "#f0fff4ff",
+      "100": "#c6f6d5ff",
+      "200": "#9ae6b4ff",
+      "300": "#68d391ff",
+      "400": "#48bb78ff",
+      "500": "#38a169ff",
+      "600": "#25855aff",
+      "700": "#276749ff",
+      "800": "#22543dff",
+      "900": "#1c4532ff"
+    },
+    "teal": {
+      "50": "#e6fffaff",
+      "100": "#b2f5eaff",
+      "200": "#81e6d9ff",
+      "300": "#4fd1c5ff",
+      "400": "#38b2acff",
+      "500": "#319795ff",
+      "600": "#2c7a7bff",
+      "700": "#285e61ff",
+      "800": "#234e52ff",
+      "900": "#1d4044ff"
+    },
+    "blue": {
+      "50": "#ebf8ffff",
+      "100": "#bee3f8ff",
+      "200": "#90cdf4ff",
+      "300": "#63b3edff",
+      "400": "#4299e1ff",
+      "500": "#3182ceff",
+      "600": "#2b6cb0ff",
+      "700": "#2c5282ff",
+      "800": "#2a4365ff",
+      "900": "#1a365dff"
+    },
+    "cyan": {
+      "50": "#edfdfdff",
+      "100": "#c4f1f9ff",
+      "200": "#9decf9ff",
+      "300": "#76e4f7ff",
+      "400": "#0bc5eaff",
+      "500": "#00b5d8ff",
+      "600": "#00a3c4ff",
+      "700": "#0987a0ff",
+      "800": "#086f83ff",
+      "900": "#065666ff"
+    },
+    "purple": {
+      "50": "#faf5ffff",
+      "100": "#e9d8fdff",
+      "200": "#d6bcfaff",
+      "300": "#b794f4ff",
+      "400": "#9f7aeaff",
+      "500": "#805ad5ff",
+      "600": "#6b46c1ff",
+      "700": "#553c9aff",
+      "800": "#44337aff",
+      "900": "#322659ff"
+    },
+    "pink": {
+      "50": "#fff5f7ff",
+      "100": "#fed7e2ff",
+      "200": "#fbb6ceff",
+      "300": "#f687b3ff",
+      "400": "#ed64a6ff",
+      "500": "#d53f8cff",
+      "600": "#b83280ff",
+      "700": "#97266dff",
+      "800": "#702459ff",
+      "900": "#521b41ff"
+    },
+    "purple-venturus": {
+      "50": "#faf4feff",
+      "100": "#f0e1fdff",
+      "200": "#e6cefcff",
+      "300": "#dcbbfbff",
+      "400": "#d3a8f9ff",
+      "500": "#c995f8ff",
+      "600": "#a175c8ff",
+      "700": "#795698ff",
+      "800": "#513966ff",
+      "900": "#281c33ff"
+    }
+  },
+  "Space": {
+    "space-0": 0,
+    "space-025": 2,
+    "space-050": 4,
+    "space-075": 6,
+    "space-100": 8,
+    "space-150": 12,
+    "space-200": 16,
+    "space-250": 20,
+    "space-300": 24,
+    "space-400": 32,
+    "space-500": 40,
+    "space-600": 48,
+    "space-700": 56,
+    "space-800": 64,
+    "space-900": 72,
+    "space-1000": 80
+  },
+  "text": {
+    "brand": "#041295ff",
+    "primary": "#252733ff",
+    "secondary": "#4a4d65ff",
+    "tertiary": "#797d9cff",
+    "disable": "#797d9cff",
+    "white": "#ffffffff"
+  },
+  "icon": {
+    "brand": "#041295ff",
+    "primary": "#252733ff",
+    "secondary": "#4a4d65ff",
+    "tertiary": "#797d9cff",
+    "disable": "#797d9cff",
+    "white": "#ffffffff"
+  },
+  "background": {
+    "brand": "#041295ff",
+    "primary": "#eeeff3ff",
+    "secondary": "#ffffffff",
+    "disable": "#bcbeceff"
+  },
+  "border": {
+    "brand": "#041295ff",
+    "primary": "#00000029"
+  },
+  "theme": "light",
+  "components": {
+    "button": {
+      "pink": {
+        "solid": {
+          "background-enable": "#041295ff",
+          "background-hover": "#030f77ff",
+          "background-active": "#020b59ff",
+          "icon": "#ffffffff",
+          "text": "#ffffffff"
+        },
+        "outline": {
+          "background-hover": "#fff5f7ff",
+          "background-active": "#fed7e2ff",
+          "border": "#041295ff",
+          "icon": "#041295ff",
+          "text": "#041295ff"
+        },
+        "ghost": {
+          "icon": "#041295ff",
+          "background-hover": "#fff5f7ff",
+          "background-active": "#fed7e2ff",
+          "text": "#041295ff"
+        }
+      },
+      "disable": {
+        "background": "#bcbeceff",
+        "icon": "#797d9cff",
+        "text": "#797d9cff"
+      },
+      "gray": {
+        "solid": {
+          "background-enable": "#dedee6ff",
+          "background-hover": "#bcbeceff",
+          "background-active": "#9a9db5ff",
+          "icon": "#252733ff",
+          "text": "#252733ff"
+        },
+        "outline": {
+          "background-hover": "#dedee6ff",
+          "background-active": "#bcbeceff",
+          "icon": "#252733ff",
+          "border": "#bcbeceff",
+          "text": "#252733ff"
+        },
+        "ghost": {
+          "icon": "#252733ff",
+          "text": "#252733ff",
+          "background-hover": "#dedee6ff",
+          "background-active": "#bcbeceff"
+        },
+        "link": {
+          "text-enable": "#5d607eff",
+          "text-hover": "#5d607eff",
+          "text-active": "#383a4bff",
+          "icon-enable": "#5d607eff",
+          "icon-hover": "#5d607eff",
+          "icon-active": "#383a4bff"
+        }
+      }
+    },
+    "menu": {
+      "background": "#ffffffff",
+      "text-primary": "#252733ff",
+      "text-secondary": "#4a4d65ff",
+      "text-tertiary": "#5d607eff",
+      "border": "#00000029",
+      "scroll": "#00000029",
+      "menu-item": {
+        "background-enable": "#ffffffff",
+        "background-hover": "#dedee6ff",
+        "background-active": "#bcbeceff",
+        "background-select": "#fff5f7ff",
+        "icon-select": "#252733ff",
+        "icon": "#4a4d65ff",
+        "text-selct": "#252733ff",
+        "text": "#4a4d65ff",
+        "border": "#041295ff"
+      }
+    },
+    "input-text": {
+      "border": "#00000029",
+      "background": "#ffffffff",
+      "text-filled": "#252733ff",
+      "text-enable": "#797d9cff",
+      "background-addons": "#dedee6ff",
+      "icon": "#252733ff"
+    },
+    "textarea": {
+      "border": "#00000029",
+      "background": "#ffffffff",
+      "background-disable": "#bcbeceff",
+      "text-enable": "#797d9cff",
+      "text-filled": "#252733ff",
+      "text-disable": "#797d9cff"
+    },
+    "chat": {
+      "icon": "#252733ff",
+      "background-user": "#ffffffff",
+      "background-ai": "#bcbeceff",
+      "text": "#252733ff"
+    },
+    "dropdown": {
+      "background": "#ffffffff",
+      "icon": "#252733ff",
+      "text": "#252733ff",
+      "border": "#00000029"
+    },
+    "radius-button": {
+      "text": "#5d607eff",
+      "text-selec": "#ffffffff",
+      "icon": "#5d607eff",
+      "icon-select": "#ffffffff",
+      "background-default": "#dedee6ff",
+      "background-hover": "#bcbeceff",
+      "background-pressed": "#9a9db5ff",
+      "background-active": "undefined"
+    },
+    "search": {
+      "background": "#ffffffff",
+      "border": "#00000029",
+      "text-enable": "#797d9cff",
+      "text-filled": "#252733ff"
+    },
+    "card": {
+      "outline": {
+        "background-enable": "#ffffffff",
+        "border": "#00000029",
+        "text-primary": "#252733ff",
+        "text-secondary": "#4a4d65ff",
+        "icon": "#252733ff",
+        "background-hover": "#dedee6ff",
+        "background-active": "#bcbeceff"
+      },
+      "filled": {
+        "background": "#dedee6ff",
+        "text-primary": "#252733ff",
+        "text-secondary": "#797d9cff",
+        "icon": "#252733ff"
+      },
+      "elevated": {
+        "background": "#ffffffff"
+      }
+    },
+    "uploader": {
+      "background-enable": "#ffffffff",
+      "background-active": "#fff5f7ff",
+      "text-primary": "#252733ff",
+      "text-secondary": "#797d9cff",
+      "icon": "#252733ff",
+      "icon-active": "#041295ff",
+      "border": "#00000029",
+      "border-active": "#041295ff"
+    }
+  },
+  "border-radius": {
+    "none": 0,
+    "sm": 2,
+    "base": 4,
+    "md": 6,
+    "lg": 8,
+    "xl": 12,
+    "2xl": 16,
+    "3xl": 24,
+    "full": 100
+  },
+  "sizes": {
+    "3xs": 224,
+    "2xs": 256,
+    "xs": 320,
+    "sm": 384,
+    "md": 448,
+    "lg": 512,
+    "xl": 576,
+    "2xl": 672,
+    "3xl": 768,
+    "4xl": 896,
+    "5xl": 1024,
+    "6xl": 1152,
+    "7xl": 1280,
+    "8xl": 1440
+  },
+  "primary": {
+    "50": "#e6e7f4ff",
+    "100": "#cdd0eaff",
+    "200": "#9ba1d5ff",
+    "300": "#6871bfff",
+    "400": "#3642aaff",
+    "500": "#041295ff",
+    "600": "#030f77ff",
+    "700": "#020b59ff",
+    "800": "#02083cff",
+    "900": "#01041eff"
+  },
+  "Secondary": {
+    "50": "#e6f8fcff",
+    "100": "#ccf2f8ff",
+    "200": "#99e4f1ff",
+    "300": "#66d7ebff",
+    "400": "#33c9e4ff",
+    "500": "#00bcddff",
+    "600": "#0096b1ff",
+    "700": "#007185ff",
+    "800": "#004b58ff",
+    "900": "#00262cff"
+  },
+  "Neutral": {
+    "25": "#f7f7f9ff",
+    "50": "#eeeff3ff",
+    "100": "#dedee6ff",
+    "200": "#bcbeceff",
+    "300": "#9a9db5ff",
+    "400": "#797d9cff",
+    "500": "#5d607eff",
+    "600": "#4a4d65ff",
+    "700": "#383a4bff",
+    "800": "#252733ff",
+    "850": "#1c1d26ff",
+    "900": "#131319ff"
+  }
+}
